@@ -1,0 +1,7 @@
+/Users/ahmedelsisi/Documents/Project/Supermarket.api/obj/Debug/net5.0/Supermarket.api.csproj.AssemblyReference.cache
+/Users/ahmedelsisi/Documents/Project/Supermarket.api/obj/Debug/net5.0/Supermarket.api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmedelsisi/Documents/Project/Supermarket.api/obj/Debug/net5.0/Supermarket.api.AssemblyInfoInputs.cache
+/Users/ahmedelsisi/Documents/Project/Supermarket.api/obj/Debug/net5.0/Supermarket.api.AssemblyInfo.cs
+/Users/ahmedelsisi/Documents/Project/Supermarket.api/obj/Debug/net5.0/Supermarket.api.csproj.CoreCompileInputs.cache
+/Users/ahmedelsisi/Documents/Project/Supermarket.api/obj/Debug/net5.0/Supermarket.api.MvcApplicationPartsAssemblyInfo.cs
+/Users/ahmedelsisi/Documents/Project/Supermarket.api/obj/Debug/net5.0/Supermarket.api.MvcApplicationPartsAssemblyInfo.cache

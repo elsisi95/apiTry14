@@ -1,0 +1,76 @@
+import UIKit
+
+let index1: Int = 12
+var myVal = 25
+var str = "Hello, playground"
+print(str)
+print("the value is \(myVal)")
+
+//myVal == 30? print("true"):print("false")
+
+/*for index in 1,2,3,4,5{
+    print("\(index) times 5 is \(index*5)")
+} */
+
+let john = "John Lenon"
+let chris = "Cristiano"
+let ahmed = "Ahmed E."
+let omar = "Omar E."
+let team = [john, chris, ahmed, omar]
+
+print(team[1])
+
+var emptyString = ""
+
+if emptyString.isEmpty {
+    print("string is empty")
+}
+
+var fullName = (first: "Ahmed", Last: "Elsisi")
+print(fullName.1)
+print(fullName.first)
+
+let weights = [
+    "Ahmed": 77,
+    "Yousif": 45,
+]
+print(weights["Ahmed"])
+
+var teams = [String:String]()
+teams["Paul"] = "Red"
+print(teams)
+
+enum Activity{
+    case bored
+    case reading(BookName: String)
+    case playing(GameName: String)
+    case singing(Volume: Int)
+}
+
+let football = Activity.playing(GameName: "Football")
+print(Activity.playing)
+
+/* enum compass: Int{
+    case north
+    case south
+    case west
+    case east
+}
+
+let west = compass(rawValue: 3)
+ */
+
+let firstnumber = 12
+let secondnumber = 5
+
+let total = firstnumber + secondnumber
+let different = firstnumber - secondnumber
+let multiply = firstnumber * secondnumber
+let devide = firstnumber / secondnumber
+
+print(total)
+print(different)
+print(multiply)
+print(devide)
+
+
