@@ -12,7 +12,7 @@ namespace apiTry14.TodoApp.Controllers
 
     public class TodoController : ControllerBase
     {
-        [Route("TestRun")] //define the route of this action 
+        [Route("TestRun")] //define the route of this action
 
         [HttpGet]
         public ActionResult TestRun()
